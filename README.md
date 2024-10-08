@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Katalon Framework**
 
-- 💬 Ask me about **Java Core, Spring Boot, VueJS, Test Automation.**
+- 💬 Ask me about **Java Core, Spring Boot, VueJS, Test Automation...**
 - 📫 How to reach me **nguyenchibao011102@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
