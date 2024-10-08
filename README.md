@@ -1,5 +1,6 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bao</h1>
-<h3 align="center">A passionate automation testerand developer from VietNam</h3>
+<h3 align="center">A passionate automation tester and developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenchibao1112002&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenchibao1112002" /> </p>
