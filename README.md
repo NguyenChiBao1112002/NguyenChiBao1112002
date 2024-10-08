@@ -4,15 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenchibao1112002&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenchibao1112002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyenchibao1112002" alt="nguyenchibao1112002" /></a> </p>
+
 
 - 🌱 I’m currently learning **Katalon Framework**
 
-- 💬 Ask me about **Java Core, Spring Boot, VueJS, Té·**
+- 💬 Ask me about **Java Core, Spring Boot, VueJS, Test Automation·**
+- 📫 How to reach me **nguyenchibao011102@gmail.com**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/chi bao nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chi bao nguyen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bảo-nguyen-85356b265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bảo-nguyen-85356b265" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@BaoNguyen-yo5ee/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chi bao nguyen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
