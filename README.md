@@ -1,5 +1,6 @@
 
-![Nathan_city_steam](https://github.com/user-attachments/assets/f5030612-006f-405e-8866-1f6ba18694b8)
+![1626753867110](https://github.com/user-attachments/assets/42c4d0d3-86bc-4a32-8c48-09738b30a390)
+
 
 <h1 align="center">Hi 👋, I'm Bao</h1>
 <h3 align="center">A passionate automation tester and developer from VietNam</h3>
