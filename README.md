@@ -1,6 +1,5 @@
 
-![1626753867110](https://github.com/user-attachments/assets/42c4d0d3-86bc-4a32-8c48-09738b30a390)
-
+![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/9d250946-6e1c-4947-b411-4f3787d51889)
 
 <h1 align="center">Hi 👋, I'm Bao</h1>
 <h3 align="center">A passionate automation tester and developer from VietNam</h3>
