@@ -30,7 +30,7 @@
       <img align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nguyenchibao1112002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"    alt="nguyenchibao1112002" />
     </p>
     <p style="float: left;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenchibao1112002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide=contribs,issues" alt="nguyenchibao1112002" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenchibao1112002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="nguyenchibao1112002" />
     </p>
   </div>
   <div class="flex-auto w-64 ...">
