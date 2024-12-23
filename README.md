@@ -27,7 +27,7 @@
 <div class="flex ...">
   <div class="flex-none w-14 ...">
     <p style="float: left; margin-right: 10px;">
-      <img align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nguyenchibao1112002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"    alt="nguyenchibao1112002" />
+      <img align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nguyenchibao1112002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="nguyenchibao1112002"/>
     </p>
     <p style="float: left;">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenchibao1112002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="nguyenchibao1112002" />
@@ -35,6 +35,6 @@
   </div>
   <div class="flex-auto w-64 ...">
     <div style="clear: both; width: 100%;">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nguyenchibao1112002&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-</div>
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nguyenchibao1112002&count_private=true&theme=react&border_radius=10" alt="streak stats" />
   </div>
+</div>
