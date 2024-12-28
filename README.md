@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenchibao1112002&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenchibao1112002" /> </p>
 
+
+
 - 🌱 I’m currently learning **Katalon Framework** and **Machine Learning**
 
 - 💬 Ask me about **Machine Learning, Java Core, Spring Boot, VueJS, Manual And Automation Test,...**
