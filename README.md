@@ -12,6 +12,7 @@
 
 - 🌱 I’m currently learning **Katalon Framework** and **Machine Learning**
 
+
 - 💬 Ask me about **Machine Learning, Java Core, Spring Boot, VueJS, Manual And
 Automation Test,...**
 - 📫 How to reach me **nguyenchibao011102@gmail.com**
