@@ -17,6 +17,7 @@ Automation Test,...**
 - 📫 How to reach me **nguyenchibao011102@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/bảo-nguyen-85356b265" target="blank"><img
