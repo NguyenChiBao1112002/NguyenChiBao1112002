@@ -10,9 +10,9 @@
         src="https://komarev.com/ghpvc/?username=nguyenchibao1112002&label=Profile%20views&color=0e75b6&style=flat"
         alt="nguyenchibao1112002" /></p>
 
-- 🌱 I’m currently learning **Katalon Framework** and **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Katalon, JMeter**
 
-- 💬 Ask me about **Machine Learning, Java Core, Spring Boot, VueJS, Manual And
+- 💬 Ask me about **Machine Learning, Data Science, Python, Java Core, Spring Boot, VueJS, Manual And
 Automation Test,...**
 - 📫 How to reach me **nguyenchibao011102@gmail.com**
 - ⚡ Fun fact **I think I am funny**
