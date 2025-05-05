@@ -15,7 +15,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 
 - 💬 Ask me about **Machine Learning, Data Science, Python, Java Core, Spring Boot, VueJS, Manual And
 Automation Test,...**
-- 📫 How to reach me **nguyenchibao011102@gmail.com**
+- 📫 Feel free to contact me via email **nguyenchibao011102@gmail.com** or on Microsoft Teams.
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
