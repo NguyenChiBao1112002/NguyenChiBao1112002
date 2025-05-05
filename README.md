@@ -12,6 +12,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
         alt="nguyenchibao1112002" /></p>
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, Katalon, JMeter**
+- 
 
 - 💬 Ask me about **Machine Learning, Data Science, Python, Java Core, Spring Boot, VueJS, Manual And
 Automation Test,...**
