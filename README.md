@@ -94,6 +94,9 @@ Automation Test,...**
             alt="selenium" width="40" height="40" /> </a> <a
         href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+            alt="tailwind" width="40" height="40" /> </a><a
+        href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+            src="https://d1dykungmee0hk.cloudfront.net/wp-content/uploads/2024/05/Logo-1_1.png"
             alt="tailwind" width="40" height="40" /> </a></p>
 
 <div class="flex ...">
